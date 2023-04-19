@@ -1,0 +1,21 @@
+.btn {
+  margin-top: 10px;
+  background-color: orange;
+  padding: 8px 14px;
+  border-radius: 15px;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: orangered;
+  cursor: pointer;
+}
+
+.btn-github {
+  margin-left: 20px;
+}
